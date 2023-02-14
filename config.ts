@@ -1,0 +1,1 @@
+export const mongo_url = 'mongodb+srv://markjames:solomon@freecluster.uqdlnpy.mongodb.net/jupiter?retryWrites=true&w=majority'
